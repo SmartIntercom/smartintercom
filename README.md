@@ -2,14 +2,14 @@
 
 [![SmartIntercom](https://img.shields.io/badge/SmartIntercom-blue.svg)](https://smartintercom.ru)
 [![Version](https://img.shields.io/badge/version-2.0.0-green.svg)]()
-[![Arduino](https://img.shields.io/badge/Arduino-Compatible-brightgreen.svg)]()
+[![PlatformIO](https://img.shields.io/badge/Arduino-Compatible-brightgreen.svg)]()
 [![ESP8266](https://img.shields.io/badge/ESP8266-Supported-orange.svg)]()
 
 ## 🏠 О проекте SmartIntercom
 
 **SmartIntercom** - это умный адаптер для домофонов с расширенными возможностями автоматизации и интеграции. SmartIntercom позволяет превратить обычный домофон в интеллектуальную систему управления доступом с поддержкой WiFi и систем умного дома.
 
-### Нашу продукцию Вы можете приобрести, обратившись к каталогу на сайте https://smartintercom.ru/smartintercom/
+### Нашу продукцию Вы можете приобрести, обратившись к каталогу на сайте [https://smartintercom.ru/smartintercom/](https://smartintercom.ru/smartintercom/?utm_source=github&utm_medium=readme&utm_campaign=promo)
 
 ### Почему SmartIntercom?
 
@@ -96,13 +96,13 @@ SmartIntercom может работать **полностью автономн�
 
 ## 📚 Документация SmartIntercom
 
-Полная документация SmartIntercom доступна по ссылке https://wiki.smartintercom.ru/
+Полная документация SmartIntercom доступна по ссылке [https://wiki.smartintercom.ru/](https://wiki.smartintercom.ru?utm_source=github&utm_medium=readme&utm_campaign=promo)
 
 ## 🤝 Поддержка SmartIntercom
 
-- **Сайт SmartIntercom**: [smartintercom.ru](https://smartintercom.ru)
+- **Сайт SmartIntercom**: [smartintercom.ru](https://smartintercom.ru?utm_source=github&utm_medium=readme&utm_campaign=promo)
 - **Email SmartIntercom**: help@smartintercom.ru
-- **Wiki SmartIntercom**: [wiki.smartintercom.ru](https://wiki.smartintercom.ru)
+- **Wiki SmartIntercom**: [wiki.smartintercom.ru](https://wiki.smartintercom.ru?utm_source=github&utm_medium=readme&utm_campaign=promo)
 
 
 ## 🌟 Почему выбирают SmartIntercom?

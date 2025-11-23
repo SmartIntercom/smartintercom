@@ -1,4 +1,4 @@
-# SmartIntercom Premium - Умный адаптер для домофона с WiFi и автоматизацией
+# SmartIntercom - Умный адаптер для домофона с WiFi и автоматизацией
 
 [![SmartIntercom](https://img.shields.io/badge/SmartIntercom-blue.svg)](https://smartintercom.ru)
 [![Version](https://img.shields.io/badge/version-2.0.0-green.svg)]()
